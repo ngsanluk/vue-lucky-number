@@ -1,4 +1,5 @@
 # vue-lucky-number
+This is a simple demonstration on using Vue.js for simple lucky number game
 
 ## Project setup
 ```
